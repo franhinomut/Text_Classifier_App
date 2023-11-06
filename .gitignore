@@ -1,0 +1,6 @@
+.vscode/
+flagged/
+my_distilbert_model/
+venv_name/
+images/
+settings.json
